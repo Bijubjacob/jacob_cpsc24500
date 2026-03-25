@@ -13,3 +13,4 @@ now = datetime.now()
 print(f"Current date and time: {now}")
 
 print(f"Age: {age}, GPA: {gpa}, Student: {is_student}")
+print(f"Thanks for using my program, {name}!")
