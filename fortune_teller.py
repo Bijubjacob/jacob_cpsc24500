@@ -46,7 +46,7 @@ def main():
         "Hard work will pay off soon.",
         "You will meet someone important.",
         "Expect good news soon.",
-        "Your efforts will bring rewards."
+        "Your efforts will be rewards."
     ]
 
     fortune = random.choice(fortunes)
