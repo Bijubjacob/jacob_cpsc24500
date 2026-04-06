@@ -26,10 +26,10 @@ def save_to_file(name, category, fortune):
         f.write(f"Fortune: {fortune}\n")
 
 def main():
-    print("*" * 40)
+    print("*" * 42)
     print("*      FORTUNE TELLER v2.0       *")
     print("*   Discover what the stars hold *")
-    print("*" * 40)
+    print("*" * 42)
 
     name = input("Enter your full name: ")
     age = get_valid_age()
