@@ -1,0 +1,7 @@
+Payroll Report
+Alice Johnson   E001   $ 45.00   42.5 $ 1968.75
+Bob Smith       E002   $ 38.00   40.0 $ 1520.00
+Carol Davis     E003   $ 32.00   38.5 $ 1232.00
+Dave Wilson     E004   $ 28.50   45.0 $ 1353.75
+Eve Martinez    E005   $ 52.00   40.0 $ 2080.00
+Frank Lee       E006   $ 35.75   37.0 $ 1322.75
